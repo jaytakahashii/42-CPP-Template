@@ -4,7 +4,7 @@ module.exports = {
     'type-enum': [
       2, // エラー (1: 警告, 0: 無視)
       'always',
-      ['feat', 'fix', 'refactor'],
+      ['feat', 'fix', 'refactor', 'Revert'],
     ],
     'scope-enum': [
       2,
